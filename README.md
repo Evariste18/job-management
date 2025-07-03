@@ -7,7 +7,9 @@ API NestJS pour la gestion des utilisateurs, des offres d’emploi et des candid
 ## ⚙️ Setup du projet
 
 ```bash
-# 1. Décompresser le dossier du projet.
+# 1. Cloner le projet
+git clone <https://github.com/Evariste18/job-management.git> job-management
+cd job-management
 
 # 2. Installer les dépendances
 npm install
