@@ -37,7 +37,7 @@ npm run test          # Exécuter les tests unitaires
 
 ```bash
 Swagger est accessible ici :
-http://localhost:3000/api/docs
+http://localhost:3000/api-docs
 ```
 
 ## Données de Test
